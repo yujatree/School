@@ -2,6 +2,8 @@
 
 (24/07/01 ~ 24/08/30 in R1215) 
 
+This repository is for Backup !
+
 1. Fortran assignments
 2. Monte Carlo Simulation(MC) : Ising model
 3. Molecular Dynamics(MD) : LAMMPS
